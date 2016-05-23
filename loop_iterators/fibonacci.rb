@@ -10,4 +10,4 @@ end
 #   puts "fibonacci(#{number}) = #{fibonacci(number)}"
 # end
 
-puts fibonacci(6)
+puts fibonacci(7)
